@@ -1,0 +1,13 @@
+[
+{
+  "modid": "apollo",
+  "name": "Apollo",
+  "description": "1.12.2 Anarchy Client.",
+  "version": "2.1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["S845"],
+  "credits": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
